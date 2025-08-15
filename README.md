@@ -2,10 +2,8 @@
 
 🔧 **Engineer in the making** | 👨‍🎓 **B.E-CSE(AIML) Student** | 📍 **Tiruchengode, India**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Header](https://readme-typing-svg.herokuapp.com?color=31C6F7&lines=Hi%2C+I'm+Madhan+S!;Frontend+Developer+%26+AI+Enthusiast)
+
 
 
 ## About Me
