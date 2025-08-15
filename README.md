@@ -16,6 +16,11 @@
 
 ## 🚀 Tech Stack
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75590&width=435&lines=Frontend+Developer;JavaScript+%7C+CSS+%7C+HTML5" />
+
+
+
+
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
